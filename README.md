@@ -1,5 +1,9 @@
 # sojsnake 미니 홈페이지
 
+# sidebar 추가
+
+- sidebar.md 추가
+
 # 서비스 소개 페이지 추가
 
 - about.md 추가
